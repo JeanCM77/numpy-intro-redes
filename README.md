@@ -1,86 +1,31 @@
-# Taller 1: Ejercicios y Ejemplos en Python con NumPy
+# Taller: Ejercicios y Ejemplos en Python con NumPy
+
+[Autor: Escribe tu nombre aquí]
 
 ## Descripción
 
-Este repositorio ha sido creado para que implementes y documentes un cuaderno interactivo de Python de acuerdo a las siguientes instrucciones:
+[Escribe la descripción del repositorio aquí]
 
-1. **Descripción de ejemplos:** Los ejemplos de código proporcionados en el archivo de material.
-2. **Solución de ejercicios:** Los retos planteados en el mismo archivo.
+## Nivel de uso de herramientas de inteligencia artificial
 
-El objetivo es reforzar tus habilidades en el uso de Python y NumPy, implementando ejemplos prácticos y resolviendo problemas.
+### Clasificación: [SELECCIONA UNA OPCION]
+- **Sin uso de IA**: No se utilizaron herramientas de inteligencia artificial en el desarrollo de este proyecto
+- **Bajo**: Uso limitado de herramientas de IA para tareas específicas
+- **Medio**: Uso moderado de herramientas de IA para asistencia en el desarrollo
+- **Alto**: Uso extensivo de herramientas de IA para la generación y optimización del código
 
----
+### Herramientas utilizadas (si aplica)
+[Si seleccionaste "Bajo", "Medio" o "Alto", describe las herramientas específicas utilizadas]
 
-## Instrucciones
+#### Ejemplos de prompts utilizados:
+[Incluye ejemplos específicos de los prompts que utilizaste con cada herramienta]
 
-### 1. Descarga del Material
+**Ejemplo para generación de código:**
+```
+Prompt: "Crea un archivo Python que demuestre el uso de numpy, pandas y matplotlib para análisis de datos básicos"
+```
 
-El archivo con los ejemplos y ejercicios se encuentra en una carpeta de Google Drive. Descárgalo desde el siguiente enlace:
-
-[Material NumPy - Ejercicios y Ejemplos](https://drive.google.com/drive/u/1/folders/15X399KrWXIGp1qvD1B5LMBnqcFswEn96)
-
----
-
-### 2. Preparación del Entorno
-
-Asegúrate de cumplir con los siguientes requisitos:
-
-- **Python 3.8 o superior**
-- **Bibliotecas necesarias**: NumPy y Matplotlib (puedes instalarlas con `pip install numpy matplotlib`).
-
-### 3. Creación del Cuaderno Interactivo
-
-1. **Título y Propósito**:
-   - Inicia tu cuaderno interactivo con un título apropiado.
-   - Escribe una breve introducción explicando el propósito del cuaderno y el contenido que abordarás.
-
-2. **Implementación de Ejemplos**:
-   - Copia e implementa cada ejemplo del archivo proporcionado.
-   - Acompaña cada ejemplo con una breve descripción de su funcionamiento y los resultados esperados.
-
-3. **Resolución de Ejercicios**:
-   - Resuelve los ejercicios planteados en el archivo.
-   - Explica brevemente tu razonamiento y los resultados obtenidos.
-
-4. **Visualizaciones (si aplica)**:
-   - Incluye gráficos o representaciones visuales para los ejercicios que lo requieran (por ejemplo, el ejercicio de descenso por gradiente).
-
-5. **Documentación y Organización**:
-   - Asegúrate de que tu cuaderno esté organizado y sea fácil de seguir, con secciones claras para ejemplos y ejercicios.
-
----
-
-### 4. Subida al Repositorio
-
-- El archivo final debe ser un único cuaderno interactivo de Python (`.ipynb`).
-- Sube el cuaderno al repositorio que te ha sido asignado en GitHub Classroom.
-- Asegúrate de haber probado tu cuaderno antes de subirlo.
-
----
-
-## Evaluación
-
-El cuaderno será evaluado con base en:
-
-1. **Claridad**:
-   - Explicaciones bien redactadas y organizadas.
-2. **Implementación**:
-   - Implementación correcta de los ejemplos y ejercicios.
-3. **Calidad del Código**:
-   - Código limpio y bien documentado.
-4. **Creatividad y Profundidad**:
-   - Soluciones que vayan más allá de lo básico.
-
----
-
-## Recursos
-
-- Accede al material desde el enlace proporcionado.
-- Documentación oficial de NumPy: [NumPy Documentation](https://numpy.org/doc/stable/).
-
----
-
-## Contacto
-
-- **Prof. José Francisco Ruiz Muñoz**: jfruizmu@unal.edu.co
-- **Prof. Richard Rios Patiño**: rriospa@unal.edu.co
+**Ejemplo para optimización:**
+```
+Prompt: "Revisa este código y sugiere mejoras para hacerlo más eficiente y legible"
+```
