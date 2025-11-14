@@ -1,6 +1,6 @@
 # Taller: Ejercicios y Ejemplos en Python con NumPy
 
-[Autor: Escribe tu nombre aquí]
+[Autor: Jean Carlos Mejia]
 
 ## Descripción
 
@@ -15,10 +15,10 @@
 - **Alto**: Uso extensivo de herramientas de IA para la generación y optimización del código
 
 ### Herramientas utilizadas (si aplica)
-[Si seleccionaste "Bajo", "Medio" o "Alto", describe las herramientas específicas utilizadas]
+[Medio: ChatGPT]
 
 #### Ejemplos de prompts utilizados:
-[Incluye ejemplos específicos de los prompts que utilizaste con cada herramienta]
+[¿Como funciona un tensor en Python?]
 
 **Ejemplo para generación de código:**
 ```
